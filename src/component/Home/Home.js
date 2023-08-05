@@ -62,9 +62,7 @@ const Home = () => {
             </div>
           </div>
           <div className="right">
-            <div className="right_img">
-              <img src={hero} alt="" />
-            </div>
+            <img src={hero} height={750} alt="" />
           </div>
         </div>
       </section>
