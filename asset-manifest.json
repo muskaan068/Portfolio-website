@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Muskaan-Yadav-portfolio/static/css/main.7f39c1be.css",
+    "main.js": "/Muskaan-Yadav-portfolio/static/js/main.5e4d4815.js",
+    "static/js/787.128fc6e9.chunk.js": "/Muskaan-Yadav-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/hero1.png": "/Muskaan-Yadav-portfolio/static/media/hero1.f492b1e7865c69f1ffc2.png",
+    "index.html": "/Muskaan-Yadav-portfolio/index.html",
+    "main.7f39c1be.css.map": "/Muskaan-Yadav-portfolio/static/css/main.7f39c1be.css.map",
+    "main.5e4d4815.js.map": "/Muskaan-Yadav-portfolio/static/js/main.5e4d4815.js.map",
+    "787.128fc6e9.chunk.js.map": "/Muskaan-Yadav-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f39c1be.css",
+    "static/js/main.5e4d4815.js"
+  ]
+}
